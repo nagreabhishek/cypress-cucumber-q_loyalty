@@ -15,6 +15,7 @@ This project uses [Cypress](https://www.cypress.io/) for end-to-end testing.
 - **`cypress.config.js`**: The main Cypress configuration file containing config such as specPattern, baseUrl.
 - **`package.json`**: Defines project dependencies and stepDefinitions path.
 
+### Screenshots
 ![alt text](cypress/screenshots/image.png)
 ![alt text](cypress/screenshots/image-1.png)
 ![alt text](cypress/screenshots/image-2.png)
